@@ -1,0 +1,11 @@
+C:\Users\gabriel.botelho\source\repos\ClienteWebApp\ClienteWebApp\bin\Debug\netcoreapp2.0\ClienteWebApp.deps.json
+C:\Users\gabriel.botelho\source\repos\ClienteWebApp\ClienteWebApp\bin\Debug\netcoreapp2.0\ClienteWebApp.runtimeconfig.json
+C:\Users\gabriel.botelho\source\repos\ClienteWebApp\ClienteWebApp\bin\Debug\netcoreapp2.0\ClienteWebApp.runtimeconfig.dev.json
+C:\Users\gabriel.botelho\source\repos\ClienteWebApp\ClienteWebApp\bin\Debug\netcoreapp2.0\ClienteWebApp.dll
+C:\Users\gabriel.botelho\source\repos\ClienteWebApp\ClienteWebApp\obj\Debug\netcoreapp2.0\ClienteWebApp.csprojResolveAssemblyReference.cache
+C:\Users\gabriel.botelho\source\repos\ClienteWebApp\ClienteWebApp\obj\Debug\netcoreapp2.0\ClienteWebApp.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.botelho\source\repos\ClienteWebApp\ClienteWebApp\obj\Debug\netcoreapp2.0\ClienteWebApp.AssemblyInfoInputs.cache
+C:\Users\gabriel.botelho\source\repos\ClienteWebApp\ClienteWebApp\obj\Debug\netcoreapp2.0\ClienteWebApp.AssemblyInfo.cs
+C:\Users\gabriel.botelho\source\repos\ClienteWebApp\ClienteWebApp\bin\Debug\netcoreapp2.0\ClienteWebApp.pdb
+C:\Users\gabriel.botelho\source\repos\ClienteWebApp\ClienteWebApp\obj\Debug\netcoreapp2.0\ClienteWebApp.dll
+C:\Users\gabriel.botelho\source\repos\ClienteWebApp\ClienteWebApp\obj\Debug\netcoreapp2.0\ClienteWebApp.pdb
